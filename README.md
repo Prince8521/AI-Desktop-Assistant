@@ -46,3 +46,11 @@ The inception of the "AI Virtual Assistant" project was marked by a comprehensiv
 1.5	Task Identification:
 
 The realization of the "AI Virtual Assistant" project entails a structured series of tasks. From the collection and curation of diverse datasets to facilitate training, to the integration of OpenAI's language understanding capabilities, every step is meticulously planned. Python's versatile ecosystem plays a pivotal role in coding the interactive interface, enabling users to engage in fluid conversations with the assistant. Additionally, the project involves continuous iterative testing and refinement to ensure that the assistant's responses align with user expectations and adapt to varied scenarios. The culmination of these tasks is a seamless, AI-enhanced human-computer interaction experience.
+
+![image](https://github.com/Prince8521/AI-Desktop-Assistant/assets/79780014/ad607f2c-6040-4ef9-aee7-9b7753c3cc94)
+
+![image](https://github.com/Prince8521/AI-Desktop-Assistant/assets/79780014/99efeadd-ae19-4412-9b43-eb466f45c441)
+
+![image](https://github.com/Prince8521/AI-Desktop-Assistant/assets/79780014/f0d75617-32be-4f73-adac-0ca26e62b4eb)
+
+
